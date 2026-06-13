@@ -1,4 +1,6 @@
-# Musical Instrument Store
+# Git Branch Practice
 
-Навчальний проєкт з розробки бази даних для інтернет-магазину музичних інструментів.
+# 
+
+# Версія README з гілки feature/readme-version.
 
