@@ -1,6 +1,4 @@
-# Git Branch Practice
+Git Branch Practice
 
-
-
-Версія README з основної гілки main.
+Файл README оновлено після розв’язання конфлікту злиття.
 
